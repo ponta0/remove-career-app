@@ -20,6 +20,6 @@ PCのターミナルでappremove.shを実行するとスクリプトが実行さ
 
 例:) bash appremove.sh
 
-表示されたアプリ一覧に問題がなければ「Y」を入力します。
+対話形式で使用できますので質問に対してY|Nを入力してください。
 
 ![test](Docs/removeapp.png)
