@@ -1,5 +1,5 @@
 #! /bin/bash
-declare -a carrier_app_name=("docomo" "ntt" "auone" "rakuten" "kddi" "softbank" "taginfo") 
+declare -a carrier_app_name=("docomo" "ntt" "auone" "rakuten" "kddi" "softbank") 
 
 # adbが存在するか確認
 which adb > /dev/null 2>&1
