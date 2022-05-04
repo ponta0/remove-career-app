@@ -18,7 +18,9 @@ Android端末でUSBデバッグを有効にしパソコンへ接続します。
 
 PCのターミナルでappremove.shを実行するとスクリプトが実行されます。
 
-例:) bash appremove.sh
+```sh
+bash appremove.sh
+```
 
 対話形式で使用できますので質問に対してY|Nを入力してください。
 
